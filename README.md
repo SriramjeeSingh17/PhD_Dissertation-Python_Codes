@@ -7,7 +7,7 @@ This repository contains codes for my paper "Estimating the Impact of Weather on
 
 @article{ssingh_2020,
    title={Estimating the Impact of Weather on CBOT Corn Futures Prices},
-   url={https://iastate.box.com/s/dsemvmcw8pn6occsyeb3ygjas0nf6r2l},
+   url={https://iastate.box.com/s/dsemvmcw8pn6occsyeb3ygjas0nf6r2l },
    author={Singh, Sriramjee},
    year={2020}
 }
@@ -36,7 +36,6 @@ This code applies neural networks predictors like fully connected neural network
 #### program1_run_class.py
 
 This code applies classifiers like SVM, LR, Random Forest, XGBoost, CNN etc. on the data. It contains codes for K-means for clustering and PCA for dimension reduction as well.
-
 
 
 

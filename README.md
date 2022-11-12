@@ -1,13 +1,12 @@
-# Applying ML on weather data to predict prices
+## Applying ML on weather data to predict prices
 
 
-This repository contains codes for my paper "Estimating the Impact of Weather on CBOT Corn Futures Prices". In this paper, I use machine learning techniques on weather data to predict corn futures prices as well as their direction of movement.
+This repository contains codes for my paper "Estimating the Impact of Weather on CBOT Corn Futures Prices". In this paper, I use machine learning techniques on weather data to predict corn futures prices as well as their direction of movement. Please find below the citation and the codes details. Thanks!
 
-### Please cite my paper if you use my codes. Thanks!
 
 @article{ssingh_2020,
    title={Estimating the Impact of Weather on CBOT Corn Futures Prices},
-   url={https://iastate.box.com/s/dsemvmcw8pn6occsyeb3ygjas0nf6r2l },
+   url={https://drive.google.com/file/d/1aZGAfM6r66kAYZiLdW_8JSWDXDZ3WTOQ/view?usp=share_link},
    author={Singh, Sriramjee},
    year={2020}
 }
